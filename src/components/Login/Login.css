@@ -1,0 +1,17 @@
+.form-container{
+    width:500px;
+    margin:0 auto;
+    margin-top:30px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow: 5px 5px 20px  grey;
+}
+.form-title{
+    font-size:26px;
+    text-align: center;
+    
+}
+.form-link{
+    color:orange;
+    text-decoration: none;
+}
